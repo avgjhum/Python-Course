@@ -1,3 +1,5 @@
+**[🇷🇺 Русская версия курса Python](https://github.com/ikonushok/Python-Course/tree/rus)**
+
 # Python Course
 
 Welcome to the Python Course! This free repository is designed to provide a comprehensive Python programming course for beginners. 
