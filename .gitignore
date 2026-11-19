@@ -1,2 +1,5 @@
 /Solutions/*
 !/Solutions/.gitkeep
+!/Solutions/rus/
+/Solutions/rus/*
+!/Solutions/rus/.gitkeep
